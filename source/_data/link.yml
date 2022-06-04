@@ -1,0 +1,15 @@
+- class_name: 友情链接
+  class_desc: 
+  link_list:
+    - name: 江陵
+      link: https://江陵.life
+      avatar: https://jiangling-1305440674.cos.ap-chongqing.myqcloud.com/images/blog_me.jpg
+      descr: God Of Frontend!!!
+    - name: Nirvana
+      link: https://www.nirvana.cool/
+      avatar: https://www.nirvana.cool/images/avatar.jpg
+      descr: 往事已成定局，但未来由我们书写
+    - name: Lomirus
+      link: https://lomirus.github.io/
+      avatar: https://github.com/lomirus/lomirus.github.io/raw/master/assets/img/avatar.jpg
+      descr: We shall meet in the place where there is no darkness.
